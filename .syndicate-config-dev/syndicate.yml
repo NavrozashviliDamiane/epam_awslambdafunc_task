@@ -1,0 +1,12 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox01/4e5c06a5/task01
+expiration: 2024-08-03 04:14:02.160282+00:00
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::196241772369:policy/eo_role_boundary
+project_path: C:\Users\Admin\Desktop\awslabdatask
+region: eu-central-1
+resources_prefix: cmtr-4e5c06a5-
+temp_aws_access_key_id: ASIAS3MHLZ5IS4WDZZEG
+temp_aws_secret_access_key: uz+feAyuTEb/ognlJvYyj/yTY3591l1oGmnGnTsX
+temp_aws_session_token: IQoJb3JpZ2luX2VjELP//////////wEaCXVzLWVhc3QtMSJHMEUCIDLW3B/LwOHZt/qDy24mEbh1q73CKatMYQli5fAowYQsAiEAgGjAxKy1DefT9/6y/eGaPY0Bf/E11Rmt0bvvNXLmfscq8AIInP//////////ARABGgwxOTYyNDE3NzIzNjkiDKnpOWhC5dM8/gk1iCrEAoq+DnFD/2YxN3OuRXD6Ko+Dt0ioW5F5QYqN9ttiuVNH1OV3cbDihZebbj7kAiRh6kwtWHUzo2U6dgSz/zZeSpTAI0+jF/yN5HytIceRSKX5efflaaik4ravUN5fwk7yKZfd4g0uk6il1hUM8RXLJm6bUCwXIrG98lSKP6rbYcc9DxHe4uDpL23KUHf3EoRjTn+Wrd5DZ+hyLiBAzGdtzvEDNQLh3z81zn5CWqZh8eFGftPjyFrn/mTgnNg3xVC7C4jG9vaJ4hsrInCCfzJ/gPg9pm7ViimSOCKTq9OCxGEnp6aiYwJ9DQKAfaoOUoYFefh1WRI6+y6kMIUAE3T5s3do83Cp79u8FZ5u1O4bWn8Kp0se91spHCaVKV2Q9YVl7GB0/HDE4wvmDgGduESpqnlLzBp2BQtb0D7AAwdHQ5U/twbyzzCyu7a1BjqdAa6JfGBPGYIIJ50laF9/3iglWvnajSQrdOUo3E/mL+GpYSnzUApefKeuaClT1Io8matME4aktBXaILfRL9xuHoAnuTZZ3w/twLViwubPqp6YJH7jKf133D/e1Aunf5Rq6LB1YFLgc7qjQWuDkZR+WnSmALGxSKZ93eI7rtXkkYSqOavfcV9i23q4Q4KLkEPDSfN/8pMVtdX0Nv97VBg=
+use_temp_creds: false
